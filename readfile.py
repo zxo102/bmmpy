@@ -1,3 +1,4 @@
+#这是什么文件
 def readfile():
     file=open(r'C:\Users\Administrator\Desktop\12345.txt','rt')
     info_list=[]
